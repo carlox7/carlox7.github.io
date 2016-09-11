@@ -1,0 +1,60 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       font-family: 'Prompt', sans-serif;
+       background-color: #FFE03F;
+       font-size: 20px;
+    }
+
+    header {
+        background-color:#FFA94D;
+        color: white;
+        padding:25px;
+        font-size: 30px;
+        display: block;
+        width: 790px;
+        font-family: 'Prompt', sans-serif;
+        border: 5px solid white;
+
+
+    }
+    nav {
+        line-height:;
+        background-color:;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
